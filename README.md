@@ -18,10 +18,10 @@ To write a program to implement the linear regression using gradient descent.
 
 ## Program:
 ```
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: REETHIKA.R
 RegisterNumber:  212219220042
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -48,9 +48,7 @@ plt.title("hours Vs scores(train)")
 plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
-*/
 ```
-
 ## Output:
 
 ![image](https://user-images.githubusercontent.com/98681990/174651355-f6ed4c34-f812-4aa5-8a5b-7f22e524d17d.png)
